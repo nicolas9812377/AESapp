@@ -1,2 +1,2 @@
 # AESapp
-Aplicacion Android para encriptar Archivos y Texto
+Aplicacion Android para encriptar Archivos y Texto con AES
