@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PruebaCpp</string>
+    <string-array name="keysize">
+        <item>128</item>
+        <item>192</item>
+        <item>256</item>
+    </string-array>
+
+    <string-array name="modo">
+        <item>Encriptar</item>
+        <item>Desencriptar</item>
+    </string-array>
+
+</resources>
